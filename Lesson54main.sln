@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task03project", "task03proj
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task04project", "task04project\task04project.vcxproj", "{80B5370E-5384-4DFD-B6BE-03B1FBC9612F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task05project", "task05project\task05project.vcxproj", "{ABB6510D-397A-40CD-85D3-4C8DF758EB37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{80B5370E-5384-4DFD-B6BE-03B1FBC9612F}.Release|x64.Build.0 = Release|x64
 		{80B5370E-5384-4DFD-B6BE-03B1FBC9612F}.Release|x86.ActiveCfg = Release|Win32
 		{80B5370E-5384-4DFD-B6BE-03B1FBC9612F}.Release|x86.Build.0 = Release|Win32
+		{ABB6510D-397A-40CD-85D3-4C8DF758EB37}.Debug|x64.ActiveCfg = Debug|x64
+		{ABB6510D-397A-40CD-85D3-4C8DF758EB37}.Debug|x64.Build.0 = Debug|x64
+		{ABB6510D-397A-40CD-85D3-4C8DF758EB37}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABB6510D-397A-40CD-85D3-4C8DF758EB37}.Debug|x86.Build.0 = Debug|Win32
+		{ABB6510D-397A-40CD-85D3-4C8DF758EB37}.Release|x64.ActiveCfg = Release|x64
+		{ABB6510D-397A-40CD-85D3-4C8DF758EB37}.Release|x64.Build.0 = Release|x64
+		{ABB6510D-397A-40CD-85D3-4C8DF758EB37}.Release|x86.ActiveCfg = Release|Win32
+		{ABB6510D-397A-40CD-85D3-4C8DF758EB37}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
